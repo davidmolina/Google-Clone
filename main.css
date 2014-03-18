@@ -1,0 +1,46 @@
+* {
+  outline: 1px solid black;
+}
+
+#header {
+	align: right;
+	float: right;
+	font-family: arial;
+	margin: -150px;
+	padding: 15%;
+}
+
+#submit {
+	background-color: blue;
+	font-family: arial;
+	font-color: white;
+}
+
+#search {
+	align: center;
+	float: center;
+	font-family: arial;
+	margin-top: 20px;
+	padding: 15%;
+}
+
+footer {
+			text-align: relative;
+			clear: both;
+			font-family: arial;
+			margin: 10%;
+			margin-bottom: 1%;
+			padding: 10%;
+			background-color: #E1E1E1;
+			width: 750px;
+}
+
+#div #div #div #fLeft {
+			text-align: left;
+			position: left;
+}
+
+#div #div #div #fRight {
+			text-align: right;
+			position: right;
+}
